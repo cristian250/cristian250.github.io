@@ -1,2 +1,2 @@
 Tarea 2 
-Ejercicio basicos en Java
+Ejercicios basicos en Java
