@@ -1,3 +1,10 @@
+/*
+* Range.java 
+* Author: Cristian Jimenez
+* Date: Oct 4, 2022
+* Location; Ixtac, Ver, Mexico
+*/
+
 class Range {
     public static void main(String[] args) {
       byte valbyte = 100;
