@@ -5,7 +5,7 @@
 * Location; Ixtac, Ver, Mexico
 */
 
-class Range {
+public class Range {
     public static void main(String[] args) {
       byte valbyte = 100;
       short valshort = 1024;    

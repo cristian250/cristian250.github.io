@@ -1,10 +1,9 @@
+public class SwitchNumber {
 // Java Program to check the size
 // using the switch...case statement
-
-class Main {
     public static void main(String[] args) {
   
-      int number = 30;
+      int number = 44;
       String size;
   
       // switch statement to check size

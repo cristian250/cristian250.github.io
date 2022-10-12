@@ -5,7 +5,7 @@
 * Location; Ixtac, Ver, Mexico
 */
 
-class Flag {  // name of Program
+public class Flag {  // name of Program
     public static void main(String[] args) {  // main method
           
       boolean flag = false;
