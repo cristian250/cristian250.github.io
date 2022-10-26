@@ -4,7 +4,7 @@ public class ForNumbers {
     
       int n = 50;
       // for loop  
-      System.out.println("Tabla del 2");
+      System.out.println("Tabla del 9");
       for (int i = 9; i <= n; i=i+9) {
         System.out.println(i);
       }
@@ -21,9 +21,9 @@ public class ForNumbers {
       for (int i = n; i >= 2; i=i-2) {
         System.out.println(i); 
       }
-      System.out.println("Impares entre 18 y 50 en descendente");
+      System.out.println("Impares entre 10 y 50 en descendente");
       n=50;
-      for (int i = n; i >= 18; i=i-3) {
+      for (int i = n; i >= 10; i=i-3) {
         System.out.println(i); 
       }
     }
